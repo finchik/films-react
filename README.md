@@ -1,5 +1,5 @@
 Рейтинг фильмов
-[DEMO](https://finchik.github.io/films-react/)
+[DEMO](https://finchik.github.io/films-react/index.html)
 ===
 
 Необходимо реализовать компонент отображающий рейтинг фильма в виде звезд:
